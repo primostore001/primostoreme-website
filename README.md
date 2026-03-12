@@ -1,4 +1,4 @@
-#https://primogemstore.mee/website
+https://primogemstore.mee/website
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
